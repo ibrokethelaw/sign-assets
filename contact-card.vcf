@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Davios Filaretos;Konstantinos;;;
+FN:Konstantinos Davios Filaretos
+TITLE:Lawyer, Data Protection Officer
+ORG:GDPR Greece
+EMAIL;TYPE=INTERNET:k.davios@gdprgreece.com
+item1.URL;type=pref:https://www.linkedin.com/in/cdfgr
+TEL;TYPE=CELL:+30 6980 999992
+TEL;TYPE=WORK:+30 210 6090059
+ADR;TYPE=WORK:;;1 Egeou Pelagous St.;Agia Paraskevi;;153 42;Greece
+URL:https://www.gdprgreece.com
+END:VCARD
